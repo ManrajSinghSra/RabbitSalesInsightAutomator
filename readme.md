@@ -4,9 +4,8 @@ cat > ~/Documents/SalesInsightAutomator/README.md << 'EOF'
 An AI-powered tool that transforms raw sales CSV/Excel data into professional executive summaries delivered straight to your inbox.
 
 ## 🚀 Live URLs
-- **Frontend**: https://your-app.vercel.app
-- **Backend API**: https://your-api.onrender.com
-- **Swagger Docs**: https://your-api.onrender.com/docs
+- **Frontend**: https://rabbit-sales-insight-automator-eyfq-pskminul2.vercel.app/
+- **Backend API**: https://rabbitsalesinsightautomator-1.onrender.com 
 
 ## ⚡ Quick Start (Docker)
 ```bash
